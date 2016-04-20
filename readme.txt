@@ -1,1 +1,2 @@
-git is nice thing
+git is new thing
+I want to change it
